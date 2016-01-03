@@ -22,7 +22,7 @@ DEFGHIJKLMNOPQRSTUVWXYZABC
 
 Write the program to encode plain text into messages.
 ```
-CasearCipher.encode('TWO SYMBOLS KISSING EACH OTHER')
+CaesarCipher.encode('TWO SYMBOLS KISSING EACH OTHER')
 ```
 
 ### Extension 2:
